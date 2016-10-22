@@ -138,6 +138,7 @@ server:
         - libxml2-dev
         - libssl-dev
         - libbz2-dev
+        - libxss-dev
         - gdb
 users_groups:
     install: '1'
