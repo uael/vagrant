@@ -20,8 +20,8 @@ vagrantfile:
                         update_guest_tools: 0
                 machines:
                     vflm_grgwmabn9d1c:
-                        id: lilt
-                        hostname: lilt.puphpet
+                        id: uael
+                        hostname: uael.puphpet
                         network:
                             private_network: 192.168.56.109
                             forwarded_port:
